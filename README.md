@@ -39,20 +39,19 @@ This allows the program to detect:
 
 ## Project Structure
 
-.
-├── src/
+# ├── src/
 │   ├── main.c  
 │   ├── hardware.c  
 │   ├── database.c  
 │   ├── recommend.c  
 │
-├── include/
+# ├── include/
 │   ├── hardware.h  
 │   ├── database.h  
 │   ├── recommend.h  
 │
-├── gpu_data.txt  
-├── README.md  
+# ├── gpu_data.txt  
+# ├── README.md  
 
 ## Data-Driven Design
 
